@@ -10,6 +10,7 @@ Welcome to **World of Wordcraft**, a multiplayer game where players combine word
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Future Improvements](#future-improvements)
+  - [Screenshot](#screenshot)
   - [Prerequisites](#prerequisites)
   - [Configuration](#configuration)
     - [Setting Up LLaMA](#setting-up-llama)
@@ -27,6 +28,10 @@ Welcome to **World of Wordcraft**, a multiplayer game where players combine word
 - **Better Gameplay:** Enhance the scoring system and gameplay mechanics.
 - **Pre-trained Model:** Update the LLaMa model to a pre-trained version for improved word generation.
 
+
+## Screenshot
+
+![Screenshot](client/assets/game_screenshot.png)
 
 ## Prerequisites
 
