@@ -2,8 +2,7 @@ import replicate
 import os
 from sklearn.metrics.pairwise import cosine_similarity
 
-TOKEN = "r8_JJRT9kkgxedNyTF7rvz3cyjgQ51X47q0Fpf0u"
-os.environ["REPLICATE_API_TOKEN"] = TOKEN
+TOKEN = os.environ["REPLICATE_API_TOKEN"]
 
 import database as db
 import numpy as np
